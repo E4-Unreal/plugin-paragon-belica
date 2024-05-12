@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Paragon Belica",
+	"Description": "Paragon: Lt.Belica 콘텐츠 전용 플러그인",
+	"Category": "Content",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://www.unrealengine.com/marketplace/ko/product/paragon-lt-belica",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"NoCode": true
+}
