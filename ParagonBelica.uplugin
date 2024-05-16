@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 2,
-	"VersionName": "1.1.0",
+	"Version": 3,
+	"VersionName": "1.1.1",
 	"FriendlyName": "Paragon Belica",
 	"Description": "Paragon: Lt.Belica 콘텐츠 전용 플러그인",
 	"Category": "Content",
@@ -22,8 +22,7 @@
 		},
 		{
 			"Name": "UnrealMannequins",
-			"Enabled": true,
-			"Optional": true
+			"Enabled": true
 		}
 	]
 }
