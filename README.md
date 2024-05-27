@@ -1,11 +1,16 @@
-# Plugin ParagonBelica
+# Plugin Paragon Belica
 
-- [Paragon: Lt.Belica](https://www.unrealengine.com/marketplace/ko/product/paragon-lt-belica) 콘텐츠 전용 플러그인
-- LtBelicaPlayerCharacter 블루프린트 캐릭터 에셋에서 `Reset Orientation and Position` 함수를 사용하기 때문에 `XRBase` 플러그인 종속성을 추가하였습니다.
+- 에픽게임즈 무료 콘텐츠
+- 캐릭터 블루프린트에서 `Reset Orientation and Position` 함수를 사용하기 때문에 `XRBase` 플러그인 종속성을 추가하였습니다.
 
 ## 플러그인 종속성
 
+### 코드
+
 - XRBase
+
+### 콘텐츠
+
 - [UnrealMannequins (v1.2.0)](https://github.com/E4-Unreal/plugin-unreal-mannequins/releases/tag/v1.2.0)
 
 ## 설치 방법
